@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "//div[contains(@aria-labelledby,'size')]/div[1]"
-}
