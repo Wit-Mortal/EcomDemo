@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","5848","TC-003: Ensure updating the quantity in the cart reflects accurately","","Fri Jan 31 17:55:40 IST 2025","failed","Fri Jan 31 17:55:45 IST 2025","","Add to Cart Functionality","",""
+"","10796","TC-001: Ensure a simple product can be added to the cart","","Fri Jan 31 17:55:29 IST 2025","passed","Fri Jan 31 17:55:40 IST 2025","","Add to Cart Functionality","",""
